@@ -114,7 +114,7 @@ transform: scale(1.1);
 /* Rule sets */
 
 #rule-sets {
-    height: 600px;
+    height: 400px;
 }
 
 #left-about {
@@ -198,4 +198,22 @@ hr {
     background-position: center;
     width: 100%;
     overflow: hidden;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 33%;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 1.5px solid white;
+    box-sizing: border-box;
+    padding-top: 50px;
+    
+    
+}
+
+#times h2 {
+    color: #fafafa;
 }
