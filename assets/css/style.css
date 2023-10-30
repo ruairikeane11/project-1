@@ -189,4 +189,13 @@ hr {
 }
 
 
+/* Event Dates */
 
+#times {
+    background-image: url(../css/images/dublin-city.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
